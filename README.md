@@ -12,7 +12,7 @@ The plugin was created by [Maxim Kudryavtsev][upwork-profile] for %CLIENT_NAME% 
 Upload & activate plugin throw "Plugins => Add new" & "Plugins => Installed plugins"
 
 ## How to work
-PLUGIN DETAILED DESCRIBTION
+PLUGIN DETAILED DESCRIPTION
 
 ## New user element
 - Option page...
